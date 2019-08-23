@@ -1,2 +1,2 @@
-# H1 discord-youtube-live-notify-bot
+# discord-youtube-live-notify-bot
 ======
