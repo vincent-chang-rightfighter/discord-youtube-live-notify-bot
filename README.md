@@ -9,7 +9,8 @@
 ## 準備
 1.安裝 Python 3.5 <br>
 2.取得 Youtube Data Api v3 <br> 
->[Youtube Api 教學](https://developers.google.com/youtube/v3/getting-started)<br><
+>[Youtube Api 教學](https://developers.google.com/youtube/v3/getting-started)<br>>
+
 3.取得 Discord Bot token <br>
 >[Discord 開發者官網](https://discordapp.com/developers)<br>
 >[Discord Bot 建立及取得 Bot Token 教學](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) <br>
