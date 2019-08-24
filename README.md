@@ -6,14 +6,13 @@
 發布至 Discord 單一伺服器 指定 文字頻道<br>
 
 
-## 環境
-
-
-
 ## 準備
-安裝 Python 3.5 <br>
-取得Youtube Data Api<br>
-[如何啟動Youtube Api](https://developers.google.com/youtube/v3/getting-started)
+1.安裝 Python 3.5 <br>
+2.取得 Youtube Data Api v3 [如何啟動Youtube Api v3](https://developers.google.com/youtube/v3/getting-started)<br>
+3.已註冊的Discord Bot
+4.
+5.
+6.
 ## 通知內容格式
 
 預設顯示內容
