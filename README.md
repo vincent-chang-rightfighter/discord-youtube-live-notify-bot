@@ -11,8 +11,9 @@
 
 
 ## 準備
-
-
+安裝 Python 3.5 <br>
+取得Youtube Data Api<br>
+[如何啟動Youtube Api](https://developers.google.com/youtube/v3/getting-started)
 ## 通知內容格式
 
 預設顯示內容
