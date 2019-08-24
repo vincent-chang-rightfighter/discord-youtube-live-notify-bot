@@ -15,6 +15,7 @@
 >[Discord 開發者官網](https://discordapp.com/developers)<br>
 >[Discord Bot 建立及取得 Bot Token 教學](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) <br>
 >Thanks for reactiflux <br>
+
 4.取得Youtube Channel Id  <br> 
 >頻道所有者應該知道<br>
 >非頻道所有者就靠[Youtube Channel ID, info and statistics - Comment Picker 這個網站](https://commentpicker.com/youtube-channel-id.php)<br>
