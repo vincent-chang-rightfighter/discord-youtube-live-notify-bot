@@ -22,7 +22,7 @@
 >[Youtube Channel ID, info and statistics - Comment Picker 這個網站](https://commentpicker.com/youtube-channel-id.php)<br>
 
 5.取得 Discord 伺服器指定文字頻道 ID <br>
->在 Discord 客戶端中啟用開發者模式，以獲得伺服器 ' 指定文字頻道ID '  <br>
+>在 Discord 客戶端中啟用開發者模式，以獲得伺服器 ` 指定文字頻道ID `  <br>
 >使用者設定 -> 外觀 -> 在進階選項中勾選 “ 開發者模式 ” 來執行此操作<br>
 >右鍵該文字頻道，然後單擊 “ 複製ID ” ，獲得頻道ID <br>
 
