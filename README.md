@@ -9,10 +9,10 @@
 ## 準備
 1.安裝 Python 3.5 <br>
 2.取得 Youtube Data Api v3 [如何啟動Youtube Api v3](https://developers.google.com/youtube/v3/getting-started)<br>
-3.已註冊的Discord Bot
-4.
-5.
-6.
+3.已註冊的Discord Bot <br>
+4. <br>
+5. <br>
+6. <br>
 ## 通知內容格式
 
 預設顯示內容
