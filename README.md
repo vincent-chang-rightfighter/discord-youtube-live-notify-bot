@@ -18,7 +18,8 @@
 
 4.取得Youtube Channel Id  <br> 
 >頻道所有者應該知道<br>
->非頻道所有者就靠[Youtube Channel ID, info and statistics - Comment Picker 這個網站](https://commentpicker.com/youtube-channel-id.php)<br>
+>非頻道所有者就靠<br>
+>[Youtube Channel ID, info and statistics - Comment Picker 這個網站](https://commentpicker.com/youtube-channel-id.php)<br>
 
 5. <br>
 6. <br>
