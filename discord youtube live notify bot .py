@@ -80,11 +80,9 @@ async def on_ready():
             if live_status == 1:
                 print('local_live == live_status==1')# use # Choose not to display
                 print('---------------------------------------------------')# use # Choose not to display
-                break
             elif live_status == 0:
                 print('local_live == live_status==0')# use # Choose not to display
                 print('---------------------------------------------------')# use # Choose not to display
-                break
         #------------------------------------------------------------------------------
         #local_live != live_status  ->
         #------------------------------------------------------------------------------
