@@ -45,12 +45,22 @@
 > 右鍵該文字頻道，然後單擊 ` 複製ID ` ，獲得頻道ID <br> 
 
 6. <br>
+
+## 執行
+確定安裝 Python3.5 後 <br> 
+點擊兩下 discord youtube live notify bot .py 執行 <br> 
+
 ## 通知內容格式
 
-預設顯示內容
+預設開播通知顯示內容 <br> 
         
         @everyone
         頻道名稱
         直播主題
         直播網址
+
+預設結束直播通知 <br> 
+
+        stream is off ,thank you for your watching
+
 
