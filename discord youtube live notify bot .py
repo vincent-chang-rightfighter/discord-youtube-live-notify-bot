@@ -118,7 +118,7 @@ async def on_ready():
                 #clock_down
                 dateEnd = ((datetime.datetime.utcnow())+datetime.timedelta(hours=8)) # utc+8 taiwan time zone
                 dateEndStr = dateEnd.strftime("%Y-%m-%d %H:%M:%S")
-                send_text_stop ='```stream is off ,thank you for your watching ~~```\n'
+                send_text_stop ='```Stream is off ,thank you for your watching ~~```\n'
                 await channel.send(send_text_stop)
                 print(dateEndStr,'sending offline message ')#use # Choose not to display
                 print('----------------------------------')#use # Choose not to display
