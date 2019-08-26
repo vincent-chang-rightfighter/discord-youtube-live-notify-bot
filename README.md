@@ -61,6 +61,6 @@
 
 預設結束直播通知 <br> 
 
-        stream is off ,thank you for your watching
+        Stream is off ,thank you for your watching
 
 
