@@ -9,7 +9,7 @@
 ## 準備
 1.安裝 Python 3.5 <br>
 <br>
-2.取得 Youtube Data Api v3 <br> 
+2.取得 Youtube Data Api Key  <br> 
 <br>
 * 使用記事本(notepad.exe)紀錄備用<br> 
 
@@ -46,10 +46,6 @@
 
 6. <br>
 
-## 執行
-確定安裝 Python3.5 後 <br> 
-點擊兩下 discord youtube live notify bot .py 執行 <br> 
-
 ## 通知內容格式
 
 預設開播通知顯示內容 <br> 
@@ -63,4 +59,14 @@
 
         Stream is off ,thank you for your watching
 
+## 個人修改項
 
+將你的 Youtube Data Api Key 填入
+‵‵‵Python
+'key' : 'YOUTUBE DATA API KEY' 
+‵‵‵
+
+
+## 執行
+確定安裝 Python3.5 後 <br> 
+點擊兩下 discord youtube live notify bot .py 執行 <br> 
