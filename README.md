@@ -9,8 +9,8 @@
 ## 準備
 1.安裝 Python 3.5 <br>
 >再命令提示字元(cmd.exe)輸入 輸入<br>
->       python -m pip install -U discord.py <br>
->       python -m pip install requests <br>
+>               python -m pip install -U discord.py <br>
+>               python -m pip install requests <br>
 
 <br>
 2.取得 Youtube Data Api Key  <br> 
