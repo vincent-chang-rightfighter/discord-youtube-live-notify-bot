@@ -9,7 +9,7 @@
 ## 準備
 1.安裝 Python 3.5 或以上版本 <br>
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
-> python -m pip install -U discord.py <br>
+> python -m pip install discord.py <br>
 > python -m pip install requests <br>
 
 並在同一目錄下建立locallive.txt<br>
