@@ -11,6 +11,11 @@
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
 > python -m pip install -U discord.py <br>
 > python -m pip install requests <br>
+並在同一目錄下建立locallive.txt<br>
+內容預設為<br>
+> live_status=0 <br>
+> * 若不小心終止機器人,狀態會保持在最後一次取得,特別注意
+
 
 <br>
 2.取得 Youtube Data Api Key  <br> 
@@ -76,6 +81,6 @@
 ```
 
 
+
 ## 執行
-確定安裝 Python3.5 後 <br> 
 點擊兩下 discord youtube live notify bot .py 執行 <br> 
