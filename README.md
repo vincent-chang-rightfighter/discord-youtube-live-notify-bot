@@ -64,12 +64,16 @@
 
         Stream is off ,thank you for your watching
 
-## 個人修改項
+## 修改項
 
-將你的 Youtube Data Api Key 填入
-‵‵‵Python
-'key' : 'YOUTUBE DATA API KEY' 
-‵‵‵
+更改 Youtube channel id & Youtube Data Api Key & Discord 伺服器指定文字頻道ID & Discord Bot token <br>
+
+```python
+17 'channelId' : 'YOUTBUE CHANNEL ID'
+20 'key' : 'YOUTUBE DATA API KEY' 
+38         channel = client.get_channel(COPY DISCORD CHANNEL ID)
+130  client.run('DISCORD BOT TOKEN')
+```
 
 
 ## 執行
