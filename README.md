@@ -9,14 +9,15 @@
 ## 準備
 1.安裝 Python 3.5 後 <br>
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
->python -m pip install -U discord.py <br>
->python -m pip install requests <br>
+> python -m pip install -U discord.py <br>
+> python -m pip install requests <br>
 
 <br>
 2.取得 Youtube Data Api Key  <br> 
 <br>
+
 * 使用記事本(notepad.exe)紀錄備用 <br> 
-<br>
+
 > [Youtube Api 教學](https://developers.google.com/youtube/v3/getting-started)<br> 
 
 <br>
