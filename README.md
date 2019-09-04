@@ -37,8 +37,8 @@
 * 使用記事本(notepad.exe)紀錄備用<br>
 
 > 頻道所有者應該知道<br> 
-> 非頻道所有者就靠<br> 
-> [Youtube Channel ID, info and statistics - Comment Picker 這個網站](https://commentpicker.com/youtube-channel-id.php)<br> 
+> 非頻道所有者就靠下面這個網站<br> 
+> [Youtube Channel ID, info and statistics - Comment Picker ](https://commentpicker.com/youtube-channel-id.php)<br> 
 
 5.取得 Discord 伺服器指定文字頻道 ID <br> 
 <br>
