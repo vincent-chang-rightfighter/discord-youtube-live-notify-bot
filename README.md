@@ -8,6 +8,7 @@
 
 ## 準備
 1.安裝 Python 3.5 或以上版本 <br>
+還需安裝2個Library<br>
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
 > python -m pip install discord.py <br>
 > python -m pip install requests <br>
@@ -54,7 +55,7 @@
 
 > 在 Discord 客戶端中啟用開發者模式，以獲得伺服器 ` 指定文字頻道ID `  <br> 
 > `使用者設定` -> `外觀` -> 在進階選項中勾選 `開發者模式 ` 來執行此操作<br> 
-> 右鍵該文字頻道，然後單擊 ` 複製ID ` ，獲得頻道ID <br> 
+> 右鍵該文字頻道,然後單擊 ` 複製ID ` ,獲得頻道ID <br> 
 
 6. <br>
 
@@ -74,9 +75,8 @@
 ## 修改項
 
 **僅更改內容** <br>
-使用 notepad++或其他工具編輯 discord youtube live notify bot .py <br>
+使用 notepad++ 或其他工具編輯 discord youtube live notify bot .py <br>
 更改 Youtube channel id & Youtube Data Api Key & Discord 伺服器指定文字頻道ID & Discord Bot token <br>
-
 
 ```python
 17 'channelId' : 'YOUTBUE CHANNEL ID'
@@ -85,7 +85,17 @@
 130  client.run('DISCORD BOT TOKEN')
 ```
 
+### 注意事項
+更改Bot檢查直播的頻率 <br>
+記住Youtube Data API 的配額為一天1萬單位,請不要設太低 <br>
+在我的測試中,獲得一次request花費了102個單位 <br>
+Bot在倒數時,若直播在這時候開啟,無法及時通知<br>
 
+[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)<br>
+
+```python
+12 pingEveryXMinutes = 6  #5~10 minute is best 
+```
 
 ## 執行
 點擊兩下 discord youtube live notify bot .py 執行 <br> 
