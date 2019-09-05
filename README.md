@@ -73,7 +73,10 @@
 
 ## 修改項
 
+**僅更改內容** <br>
+使用 notepad++或其他工具編輯 discord youtube live notify bot .py <br>
 更改 Youtube channel id & Youtube Data Api Key & Discord 伺服器指定文字頻道ID & Discord Bot token <br>
+
 
 ```python
 17 'channelId' : 'YOUTBUE CHANNEL ID'
