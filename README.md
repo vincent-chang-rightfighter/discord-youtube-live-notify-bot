@@ -46,9 +46,8 @@
 <br>
 
 * 使用記事本(notepad.exe)紀錄備用<br>
-
-> 頻道所有者應該知道<br> 
-> 非頻道所有者就靠下面這個網站<br> 
+ 
+> 不清楚不知道就靠這個網站<br> 
 > [Youtube Channel ID, info and statistics - Comment Picker ](https://commentpicker.com/youtube-channel-id.php)<br> 
 
 5.取得 Discord 伺服器指定文字頻道 ID <br> 
@@ -78,8 +77,8 @@
 ## 修改項
 
 **僅更改內容** <br>
-使用 notepad++ 或其他工具編輯 discord youtube live notify bot .py <br>
-更改 Youtube channel id & Youtube Data Api Key & Discord 伺服器指定文字頻道ID & Discord Bot token <br>
+使用 notepad++ 或其他工具編輯 (Debug 心理準備) <br>
+更改 `Youtube channel id` & `Youtube Data Api Key` & `Discord 伺服器指定文字頻道ID` & `Discord Bot token` <br>
 
 ```python
 17 'channelId' : 'YOUTBUE CHANNEL ID'
@@ -94,7 +93,8 @@
 在我的測試中,獲得一次request花費了102個單位 <br>
 
 ![Imgur](https://imgur.com/Zy0IrFB.jpg) <br>
-一天只能請求98次 <br>
+
+按照配額來算代表一天只能請求98次 <br>
 
 ```python
 12 pingEveryXMinutes = 6  #5~10 minute is best 
