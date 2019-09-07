@@ -90,7 +90,7 @@
 記住Youtube Data API 的配額為一天1萬單位,請不要設太低 <br>
 在我的測試中,獲得一次request花費了102個單位 <br>
 
-![Imgur](https://imgur.com/Zy0IrFB) <br>
+![Imgur](https://imgur.com/Zy0IrFB.jpg) <br>
 
 <br>
 **Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
