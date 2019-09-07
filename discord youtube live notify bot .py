@@ -126,8 +126,4 @@ async def on_ready():
         openfile.close()
 
 client.run('DISCORD BOT TOKEN')
-#========================================================
-#version
-#20190820 remove clock item & delete personal token , keys, id
-#20190821 change language
-#========================================================
+
