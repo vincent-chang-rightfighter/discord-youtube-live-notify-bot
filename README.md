@@ -89,7 +89,8 @@
 更改Bot檢查直播的頻率 <br>
 記住Youtube Data API 的配額為一天1萬單位,請不要設太低 <br>
 在我的測試中,獲得一次request花費了102個單位 <br>
-Bot在倒數時,若直播在這時候開啟,無法及時通知<br>
+\$ 10000 /div 102 = \$
+**Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
 
 [Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)<br>
 
