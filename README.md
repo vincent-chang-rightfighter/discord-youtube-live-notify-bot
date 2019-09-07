@@ -89,22 +89,18 @@
 
 ### 注意事項
 更改Bot檢查直播的頻率 <br>
-記住Youtube Data API 的配額為一天1萬單位,請不要設太低 <br>
-在我的測試中,獲得一次request花費了102個單位 <br>
+記住[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)為**1天1萬單位**,請不要設太低 <br>
+在我的測試中,獲得**1次request**花費了**102個單位** <br>
+按照配額來算代表**1天**只能**請求98次** <br>
+**Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
 
 ![Imgur](https://imgur.com/Zy0IrFB.jpg) <br>
 
-按照配額來算代表一天只能請求98次 <br>
-
 ```python
-12 pingEveryXMinutes = 6  #5~10 minute is best 
+12 pingEveryXMinutes = 6  
 ```
 
 <br>
-**Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
-
-[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)<br>
-
 
 
 ## 執行
