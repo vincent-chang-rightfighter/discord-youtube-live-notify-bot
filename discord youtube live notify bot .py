@@ -9,7 +9,7 @@ import sys
 import os
 
 client = commands.Bot(command_prefix = '?')
-pingEveryXMinutes = 6  #5~10 minute is best a few delay
+pingEveryXMinutes = 6  
 live_status = 2 # Preset status
 #Youtube data api payload
 payload = {
