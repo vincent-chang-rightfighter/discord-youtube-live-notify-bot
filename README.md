@@ -1,5 +1,8 @@
 # Discord-youtube-live-notify-bot
 
+## 版本
+> v0.1 release date 2019/09/08 <br>
+> v0.2 **預計加入** 到達某時間才開始獲取request release date ~~ <br>
 
 ## 特色
 支援一個 Youtube 頻道直播提醒 <br>
@@ -91,15 +94,18 @@
 在我的測試中,獲得一次request花費了102個單位 <br>
 
 ![Imgur](https://imgur.com/Zy0IrFB.jpg) <br>
+一天只能請求98次 <br>
+
+```python
+12 pingEveryXMinutes = 6  #5~10 minute is best 
+```
 
 <br>
 **Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
 
 [Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)<br>
 
-```python
-12 pingEveryXMinutes = 6  #5~10 minute is best 
-```
+
 
 ## 執行
 點擊兩下 discord youtube live notify bot .py 執行 <br> 
