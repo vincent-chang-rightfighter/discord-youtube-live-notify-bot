@@ -92,7 +92,7 @@
 記住[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)為**1天1萬單位**,建議值在4~8分鐘一次 <br>
 在我的測試中,獲得**1次request**花費了**102個單位** <br>
 按照配額來算代表**1天**只能**請求98次** <br>
-**Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
+**Bot在倒數時,若在這時候開播或關播,無法及時通知,造成延遲通知**<br>
 
 ![Imgur](https://imgur.com/Zy0IrFB.jpg) <br>
 
