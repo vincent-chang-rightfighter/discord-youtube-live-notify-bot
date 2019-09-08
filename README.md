@@ -2,7 +2,7 @@
 
 ## 版本
 > v0.1 release date 2019/09/08 <br>
-> v0.2 **預計加入** 到達某時間才開始獲取request release date ~~ <br>
+> v0.2 **預計加入** 到達某時間才開始獲取request  <br>
 
 ## 特色
 支援一個 Youtube 頻道直播提醒 <br>
@@ -16,7 +16,7 @@
 > python -m pip install discord.py <br>
 > python -m pip install requests <br>
 
-並在同一目錄下建立locallive.txt<br>
+並在同一目錄下建立 **locallive.txt** <br>
 內容預設為<br>
 
 > live_status=0 <br>
@@ -89,7 +89,7 @@
 
 ### 注意事項
 更改Bot檢查直播的頻率 <br>
-記住[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)為**1天1萬單位**,請不要設太低 <br>
+記住[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)為**1天1萬單位**,建議值在4~8分鐘一次 <br>
 在我的測試中,獲得**1次request**花費了**102個單位** <br>
 按照配額來算代表**1天**只能**請求98次** <br>
 **Bot在倒數時,若直播在這時候開啟,無法及時通知,造成延遲通知**<br>
@@ -99,7 +99,6 @@
 ```python
 12 pingEveryXMinutes = 6  
 ```
-
 <br>
 
 
