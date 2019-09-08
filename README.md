@@ -3,11 +3,12 @@
 ### 版本
 > v0.1 release date 2019/09/08 <br>
 > v0.2 **預計加入** 到達某時間才開始獲取request  <br>
+***
 
 ### 特色
 支援一個 Youtube 頻道直播提醒 <br>
 發布至 Discord 單一伺服器 `指定文字頻道`<br>
-
+***
 
 ### 準備
 1.安裝 Python 3.5 或以上版本 <br>
@@ -60,7 +61,7 @@
 > 右鍵該文字頻道,然後單擊 ` 複製ID ` ,獲得頻道ID <br> 
 
 6. <br>
-
+***
 ### 通知內容格式
 
 預設開播通知顯示內容 <br> 
@@ -73,7 +74,7 @@
 預設結束直播通知 <br> 
 
         Stream is off ,thank you for your watching
-
+***
 ### 修改項
 
 **僅更改內容** <br>
@@ -86,7 +87,7 @@
 38         channel = client.get_channel(COPY DISCORD CHANNEL ID)
 130  client.run('DISCORD BOT TOKEN')
 ```
-
+***
 ### 注意事項
 更改Bot檢查直播的頻率 <br>
 記住[Youtube Data Api 配額](https://developers.google.com/youtube/v3/getting-started#quota)為**1天1萬單位**,建議值在4~8分鐘一次 <br>
@@ -101,6 +102,6 @@
 ```
 <br>
 
-
+***
 ### 執行
 點擊兩下 discord youtube live notify bot .py 執行 <br> 
