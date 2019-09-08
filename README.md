@@ -1,15 +1,15 @@
-# Discord Youtube 直播通知機器人 Discord-youtube-live-notify-bot
+## Discord Youtube 直播通知機器人 Discord-youtube-live-notify-bot
 
-## 版本
+### 版本
 > v0.1 release date 2019/09/08 <br>
 > v0.2 **預計加入** 到達某時間才開始獲取request  <br>
 
-## 特色
+### 特色
 支援一個 Youtube 頻道直播提醒 <br>
 發布至 Discord 單一伺服器 `指定文字頻道`<br>
 
 
-## 準備
+### 準備
 1.安裝 Python 3.5 或以上版本 <br>
 還需安裝2個Library<br>
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
@@ -61,7 +61,7 @@
 
 6. <br>
 
-## 通知內容格式
+### 通知內容格式
 
 預設開播通知顯示內容 <br> 
         
@@ -74,7 +74,7 @@
 
         Stream is off ,thank you for your watching
 
-## 修改項
+### 修改項
 
 **僅更改內容** <br>
 使用 notepad++ 或其他工具編輯 (Debug 心理準備) <br>
@@ -102,5 +102,5 @@
 <br>
 
 
-## 執行
+### 執行
 點擊兩下 discord youtube live notify bot .py 執行 <br> 
