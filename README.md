@@ -12,7 +12,7 @@
 
 ### 準備
 1.安裝 Python 3.5 或以上版本 <br>
-還需安裝2個Library<br>
+But還需安裝2個Library<br>
 * 開啟命令提示字元(cmd.exe) 輸入 <br>
 > python -m pip install discord.py <br>
 > python -m pip install requests <br>
