@@ -1,5 +1,4 @@
-## [Python]Discord Youtube 直播通知機器人 
-## AKA. Discord-youtube-live-notify-bot
+## [Python]Discord Youtube直播通知機器人 AKA. Discord-youtube-live-notify-bot
 ### 版本
 > v0.1 release date 2019/09/08 <br>
 > v0.2 **預計加入** 到達某時間才開始獲取request  <br>
